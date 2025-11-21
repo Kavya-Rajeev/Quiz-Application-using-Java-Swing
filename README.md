@@ -5,7 +5,11 @@ Here i have presented a  desktop-based Quiz Application built using Java Swing, 
 This Quiz Application Maker enables users to:
 
 Create and store MCQ-based quiz questions using a simple Swing interface.
+
 Edit or delete existing questions saved in the system.
+
 Attempt quizzes with instant scoring and result display.
+
 Save and load questions using local text/JSON file storage.
+
 Interact with a clean, user-friendly Java Swing interface built using JFrame, JPanel, and custom event handling.
